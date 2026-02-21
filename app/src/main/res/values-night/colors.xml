@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors (dark) -->
+    <color name="primary">#FFE94560</color>
+    <color name="primaryVariant">#FFBD1939</color>
+    <color name="background">#FF121212</color>
+    <color name="surface">#FF1E1E1E</color>
+    <color name="onPrimary">#FFFFFFFF</color>
+    <color name="onSurface">#FFFAFAFA</color>
+    <color name="textSecondary">#FFB0B0B0</color>
+    <color name="divider">#FF2E2E2E</color>
+
+    <!-- Clock face (dark) -->
+    <color name="clockFace">#FF1E1E1E</color>
+    <color name="clockBorder">#FF2E2E2E</color>
+    <color name="clockHourHand">#FFFAFAFA</color>
+    <color name="clockMinuteHand">#FFB0B0B0</color>
+    <color name="clockSecondHand">#FFE94560</color>
+    <color name="clockTick">#FF616161</color>
+    <color name="clockCenter">#FFE94560</color>
+
+    <!-- Bottom nav (dark) -->
+    <color name="navSelected">#FFE94560</color>
+    <color name="navUnselected">#FF616161</color>
+</resources>

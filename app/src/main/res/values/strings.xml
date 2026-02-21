@@ -1,3 +1,67 @@
 <resources>
     <string name="app_name">Clock</string>
+
+    <!-- Bottom navigation tabs -->
+    <string name="tab_clock">Clock</string>
+    <string name="tab_alarm">Alarm</string>
+    <string name="tab_stopwatch">Stopwatch</string>
+    <string name="tab_timer">Timer</string>
+
+    <!-- Toolbar menu -->
+    <string name="menu_toggle_theme">Toggle Theme</string>
+    <string name="menu_toggle_language">العربية</string>
+
+    <!-- Clock screen -->
+    <string name="btn_toggle_clock_mode">Switch Clock Mode</string>
+    <string name="btn_select_timezone">Select Timezone</string>
+    <string name="label_timezone">Timezone</string>
+    <string name="dialog_timezone_title">Select Timezone</string>
+    <string name="hint_search_timezone">Search timezone…</string>
+
+    <!-- Alarm screen -->
+    <string name="label_no_alarms">No alarms set</string>
+    <string name="btn_add_alarm">Add Alarm</string>
+    <string name="label_alarm">Alarm</string>
+    <string name="label_alarm_enabled">Enabled</string>
+    <string name="btn_delete_alarm">Delete</string>
+
+    <!-- Add/Edit alarm screen -->
+    <string name="title_add_alarm">Add Alarm</string>
+    <string name="title_edit_alarm">Edit Alarm</string>
+    <string name="hint_alarm_label">Label (optional)</string>
+    <string name="label_repeat">Repeat</string>
+    <string name="day_sun">Sun</string>
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+    <string name="day_sat">Sat</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="alarm_permission_needed">Exact alarm permission is required. Please enable it in Settings.</string>
+    <string name="btn_open_settings">Open Settings</string>
+
+    <!-- Stopwatch screen -->
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_lap">Lap</string>
+    <string name="label_lap">Lap %d</string>
+
+    <!-- Timer screen -->
+    <string name="label_hours">HH</string>
+    <string name="label_minutes">MM</string>
+    <string name="label_seconds">SS</string>
+    <string name="btn_pause">Pause</string>
+    <string name="label_timer_done">Time\'s up!</string>
+    <string name="notif_timer_title">Timer Done</string>
+    <string name="notif_timer_text">Your timer has finished.</string>
+    <string name="notif_alarm_title">Alarm</string>
+    <string name="notif_alarm_text">Tap to dismiss</string>
+    <string name="notif_dismiss">Dismiss</string>
+    <string name="channel_alarm_name">Alarms</string>
+    <string name="channel_alarm_desc">Alarm notifications</string>
+    <string name="channel_timer_name">Timer</string>
+    <string name="channel_timer_desc">Timer done notifications</string>
 </resources>

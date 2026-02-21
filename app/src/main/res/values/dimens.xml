@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="bottom_nav_height">60dp</dimen>
+    <dimen name="analog_clock_max_size">320dp</dimen>
+    <dimen name="digital_clock_text_size">64sp</dimen>
+    <dimen name="date_text_size">16sp</dimen>
+    <dimen name="timezone_text_size">13sp</dimen>
+    <dimen name="alarm_time_text_size">40sp</dimen>
+    <dimen name="alarm_label_text_size">14sp</dimen>
+    <dimen name="stopwatch_time_text_size">52sp</dimen>
+    <dimen name="timer_time_text_size">52sp</dimen>
+    <dimen name="item_vertical_padding">16dp</dimen>
+    <dimen name="item_horizontal_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+</resources>
