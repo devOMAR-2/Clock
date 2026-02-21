@@ -20,8 +20,8 @@ interface AlarmDao {
     suspend fun insert(alarm: Alarm): Long
 
     @Update
-    suspend fun update(alarm: Alarm)
+    suspend fun update(alarm: Alarm): Int
 
     @Delete
-    suspend fun delete(alarm: Alarm)
+    suspend fun delete(alarm: Alarm): Int
 }
